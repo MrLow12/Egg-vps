@@ -6,8 +6,8 @@
     },
     "exported_at": "2024-05-05T11:45:57+03:00",
     "name": "VPS - Egg",
-    "author": "mrnitro2017@gmail.com",
-    "description": "Run a VPS in pterodactyl!",
+    "author": "zakkixploit@gmail.com",
+    "description": "Create VPS di pterodactyl!",
     "features": null,
     "docker_images": {
         "quay.io\/ydrag0n\/pterodactyl-vps-egg-arm64": "quay.io\/ydrag0n\/pterodactyl-vps-egg-arm64"
